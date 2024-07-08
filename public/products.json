@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Yogur Bebible",
+      "description": "Yogur líquido naturalmente fermentado con cultivos activos. Disponible en varios sabores como fresa, vainilla y natural.",
+      "price": 1.699,
+      "image": "/images/product1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jugo de Frutas",
+      "description": "Jugo de frutas 100% natural, sin azúcares añadidos ni conservantes. Mezcla de manzanas, naranjas, plátanos y mangos.",
+      "price": 899,
+      "image": "/images/product2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Leche de Soja",
+      "description": "Leche vegetal de soja orgánica, rica en proteínas y baja en grasas saturadas. Ideal para dietas veganas y vegetarianas.",
+      "price": 599,
+      "image": "/images/product3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Espinaca Fresca",
+      "description": "Espinacas frescas y orgánicas, perfectas para ensaladas, batidos verdes y platos cocidos. Rica en vitaminas y minerales esenciales.",
+      "price": 1.399,
+      "image": "/images/product4.jpg"
+    }
+  ]
+  
